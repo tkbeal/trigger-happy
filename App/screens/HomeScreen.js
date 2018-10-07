@@ -21,14 +21,12 @@ var activity = [
     user: "00001",
     time: "Sun-Oct 07-2018",
     location: "State College",
-    pic: "./../assets/images/gun-man1-min.jpg"
   },
   {
     id: 1,
     user: "00002",
     time: "Sat-Oct 06-2018",
     location: undefined,
-    pic: "./../assets/images/soldier-gun.jpg"
   }
 ];
 

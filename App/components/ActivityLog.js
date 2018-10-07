@@ -3,7 +3,7 @@ import { View, Text, Dimensions, Image, StyleSheet} from "react-native";
 import { Card, CardItem, Left, Body, Right } from "native-base";
 import { Icon } from 'expo';
 
-const image1 = require('./../assets/images/soldier-gun.jpg');
+const image1 = require('./../assets/images/example-shot.jpg');
 const image2 = require('./../assets/images/man-gun.jpg');
 var images = [image1, image2];
   
